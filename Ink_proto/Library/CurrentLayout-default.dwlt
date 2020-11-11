@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 10}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 46
+  controlID: 42
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,20 +369,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Material
+    - Assets/Prefab
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Material
+  - Assets/Prefab
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\AN3 Cours\PFE\UnityProject_INK\PFE\Ink_proto
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 603b0000
-    m_LastClickedID: 15200
+    m_SelectedIDs: 623b0000
+    m_LastClickedID: 15202
     m_ExpandedIDs: 000000005c3b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -463,7 +463,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 9}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 102
@@ -595,9 +595,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -35.96675, y: -58.039192, z: 38.85571}
+    m_Target: {x: -57.054184, y: -27.920544, z: 0.42887354}
     speed: 2
-    m_Value: {x: -35.96675, y: -58.039192, z: 38.85571}
+    m_Value: {x: -57.054184, y: -27.920544, z: 0.42887354}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -644,13 +644,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3654805, y: 0.59909797, z: -0.3542455, w: -0.6180901}
+    m_Target: {x: -0.15422371, y: 0.8138338, z: -0.2504075, w: -0.50120777}
     speed: 2
-    m_Value: {x: -0.3654805, y: 0.59909797, z: -0.3542455, w: -0.6180901}
+    m_Value: {x: -0.1542219, y: 0.81382424, z: -0.25040457, w: -0.5012019}
   m_Size:
-    m_Target: 59.14388
+    m_Target: 23.91574
     speed: 2
-    m_Value: 59.14388
+    m_Value: 23.91574
   m_Ortho:
     m_Target: 0
     speed: 2
