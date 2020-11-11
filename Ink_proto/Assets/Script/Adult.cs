@@ -13,7 +13,7 @@ public class Adult : MonoBehaviour
     {
     	StartPosition = this.transform.position;
         EndPosition = StartPosition;
-        
+
     }
 
     public void StartMove(Vector3 hit_position)
@@ -45,7 +45,9 @@ public class Adult : MonoBehaviour
                 
             }
         }
+
         Distance += Time.deltaTime * Speed;
         this.transform.position = Vector3.Lerp(StartPosition, EndPosition, Distance);
+        
     }
 }
