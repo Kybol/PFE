@@ -3019,6 +3019,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: adult
       objectReference: {fileID: 0}
+    - target: {fileID: 6742680011398103321, guid: b2da4a7705afa624e9ceb4743d935695, type: 3}
+      propertyPath: Speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6742680011398103326, guid: b2da4a7705afa624e9ceb4743d935695, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29.11
